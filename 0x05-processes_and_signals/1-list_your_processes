@@ -5,5 +5,7 @@
 # u: Select all processes on a terminal, including those of other users
 # x: Select processes without controlling ttys
 # less: allows it to be read one screenful at a time
-# -H: Show process hierarchy (forest)
-ps -aux -H
+# -f: Do full-format listing. This option can be combined with 
+# many other UNIX-style options to add additional columns.  It
+# also causes the command arguments to be printed.  When used with -L
+ps -aux -f
