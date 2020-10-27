@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# pkill - look up or signal processes,
+# will send the specified signal (by default SIGTERM)
+pkill -f 7-highlander
