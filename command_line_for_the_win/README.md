@@ -14,7 +14,7 @@ This project is NOT mandatory at all. It is 100% optional.
 
 ## Task Project
 ---
-File Name|Task Name|Task Description
+Task Name|Task Description
 ---|---
 0 - First 九 tasks|Complete the first 9 tasks.
 1 - Reach חי completed tasks.|Complete the 9 next tasks, getting to 18 total.
