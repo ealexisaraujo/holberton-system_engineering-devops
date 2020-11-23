@@ -15,6 +15,6 @@ Repository to study the following Topic: Web infrastructure design
 ---
 File Name|Task Name|Task Description
 ---|---|---
-[0-simple_web_stack](https://drive.google.com/file/d/1ORj5BxVcoYTGbaRsk6chh5YDrtG7z3RD/view?usp=sharing)|0. Simple web stack|On a whiteboard, design a one server web infrastructure that hosts the website that is reachable via www.foobar.com. Start your explanation by having a user wanting to access your website.
-[1-distributed_web_infrastructure](https://drive.google.com/file/d/1ORj5BxVcoYTGbaRsk6chh5YDrtG7z3RD/view?usp=sharing)|1. Distributed web infrastructure|On a whiteboard, design a three server web infrastructure that hosts the website www.foobar.com.|
-[2-secured_and_monitored_web_infrastructure](https://drive.google.com/file/d/1ORj5BxVcoYTGbaRsk6chh5YDrtG7z3RD/view?usp=sharing)|2. Secured and monitored web infrastructure|On a whiteboard, design a three server web infrastructure that hosts the website www.foobar.com, it must be secured, serve encrypted traffic, and be monitored.
+[0-simple_web_stack](https://drive.google.com/drive/folders/1WE2Ts0tW8_ojfVK-vdIJ-XcIUZxrmWrP?usp=sharing)|0. Simple web stack|On a whiteboard, design a one server web infrastructure that hosts the website that is reachable via www.foobar.com. Start your explanation by having a user wanting to access your website.
+[1-distributed_web_infrastructure](https://drive.google.com/drive/folders/1WE2Ts0tW8_ojfVK-vdIJ-XcIUZxrmWrP?usp=sharing)|1. Distributed web infrastructure|On a whiteboard, design a three server web infrastructure that hosts the website www.foobar.com.|
+[2-secured_and_monitored_web_infrastructure](https://drive.google.com/drive/folders/1WE2Ts0tW8_ojfVK-vdIJ-XcIUZxrmWrP?usp=sharing)|2. Secured and monitored web infrastructure|On a whiteboard, design a three server web infrastructure that hosts the website www.foobar.com, it must be secured, serve encrypted traffic, and be monitored.
