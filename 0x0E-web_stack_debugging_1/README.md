@@ -10,4 +10,4 @@ Repository to study the following Topic: 0x0E. Web stack debugging #1 - change l
 ---
 File Name|Task Name|Task Description
 ---|---|---
-[0-nginx_likes_port_80](...)|0. Nginx likes port 80|Using your debugging skills, find out what’s keeping your Ubuntu container’s Nginx installation from listening on port 80
+[0-nginx_likes_port_80](https://github.com/jossvega/holberton-system_engineering-devops/blob/master/0x0E-web_stack_debugging_1/0-nginx_likes_port_80)|0. Nginx likes port 80|Using your debugging skills, find out what’s keeping your Ubuntu container’s Nginx installation from listening on port 80
