@@ -53,8 +53,15 @@ In this project, I reviewed the basic concepts about [BASH](https://www.gnu.org/
 10|[0x08-networking_basics_2](./0x08-networking_basics_2)| Networking basics 2
 11|[0x09-web_infrastructure_design](./0x09-web_infrastructure_design)| Web infrastructure
 12|[0x0A-configuration_management](./0x0A-configuration_management)| Configuration management and resolve with Puppet resource
-13|[0x0B-ssh](./0x0B-ssh)| Configuration management and resolve with Puppet resource
-14|[0x0C-web_server](.0x0C-web_server)| Web server instalation and first steps
+13|[0x0B-ssh](./0x0B-ssh)| Configuration management and resolve with Puppet resource.
+15|[0x0C-web_server](./0x0C-web_server)| Web server instalation and first steps.
+16|[0x0D-web_stack_debugging_0](./0x0D-web_stack_debugging_0)| Web stack debugging #0 >Apache start.
+17|[0x0E-web_stack_debugging_1](./0x0E-web_stack_debugging_1)| Web stack debugging #1 - change listening on port 80.
+18|[0x0F-load_balancer](./0x0F-load_balancer)| Configurate Load Balancer server intalled HAproxy conect with two web-server.
+19|[0x10-https_ssl](./0x10-https_ssl)| HTTPS -SSL
+20|[0x12-web_stack_debugging_2](./0x12-web_stack_debugging_2)| Run software as another user.
+21|[0x13-firewall](./0x13-firewall)| Firewall
+22|[0x14-mysql](./0x14-mysql)| The main role of a database.
 ---
 
 <p align="center">
